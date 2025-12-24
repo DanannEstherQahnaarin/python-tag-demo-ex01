@@ -1,0 +1,12 @@
+python-dotenv
+langchain-openai
+langchain-pinecone
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-classic
+langchain-core
+pinecone-client
+requests
+xmltodict
+
